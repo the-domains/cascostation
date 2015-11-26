@@ -1,0 +1,28 @@
+name: CascoStation
+favicon: null
+layout_spectrum: 0.11895092879422009
+typography_spectrum: 0.7711788015440106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9012649822980165
+  lightness: 0.7776674611959606
+  saturation: 0.9922086966689676
+  rhythmicContrast: 0.15136976377107203
+purpose: []
