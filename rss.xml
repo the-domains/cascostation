@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CascoStation Coworking]]></title>
+        <description><![CDATA[CascoStation Coworking]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 00:05:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coworking en Casco Viejo, Panamá]]></title>
+            <description><![CDATA[<article><h1>Coworking en Casco Viejo, Panamá</h1><p>CascoStation es un espacio de trabajo colaborativo tipo Coworking; ubicado en el Casco Antiguo de la Ciudad de Panamá. Te ofrece puestos de trabajo, salón de reuniones, secretaria virtual (tu número de teléfono privado y recepcionista) con un ambiente creativo para que puedas enfocarte en crear tu negocio.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b57552f9-709d-4d85-afbe-33faf65b2431.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=V9ZKFogigTg</link>
+            <guid isPermaLink="false">c368794f-8bda-47ee-84df-7870be0a4114</guid>
+            <pubDate>Fri, 27 Nov 2015 00:05:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
