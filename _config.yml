@@ -1,6 +1,6 @@
 name: CascoStation
 favicon: null
-layout_spectrum: 0.11895092879422009
+layout_spectrum: 1
 typography_spectrum: 0.7711788015440106
 title: CascoStation Coworking
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9012649822980165
-  lightness: 0.7776674611959606
+    - '#000000'
+    - '#fafafa'
+    - '#88653f'
+    - '#e89a35'
+    - '#78a199'
+  brandStrength: 0.75
+  lightness: 0.75
   saturation: 0.9922086966689676
-  rhythmicContrast: 0.15136976377107203
+  rhythmicContrast: 0.25
 purpose: []
